@@ -4,6 +4,7 @@ deepface
 tf-keras
 numpy
 pytesseract
+rapidocr-onnxruntime
 import cv2
 from deepface import DeepFace
 import numpy as np
